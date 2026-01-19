@@ -6,7 +6,7 @@ We present $\PBHub$, a privacy-preserving PCH that simultaneously supports bidir
 
 
 # Testbed
-unbuntu 18.04
-java
-rust
+- unbuntu 18.04
+- java
+- rust
 
